@@ -1,10 +1,10 @@
 {
-  "display_name": "RP Social Post",
-  "version": "0.0.1",
+  "display_name": "Social Poster",
+  "version": "1.0.0",
   "author": "fayfay",
-  "description": "สร้างโพสต์บ่น/เมาท์จากบทโรลระหว่าง {{char}} และ {{user}} เอาไปโพสต์เฟส/ทวิตได้",
+  "description": "ให้ {{char}} สร้างโพสต์โซเชียลมีเดีย (เช่น บ่น/ทวีต) โดยอิงตามบทสนทนาล่าสุด",
   "js": "index.js",
   "css": "style.css",
   "loading_order": 60,
-  "minimum_client_version": "0.0.0"
+  "minimum_client_version": "1.20.0"
 }
