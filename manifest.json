@@ -1,10 +1,11 @@
 {
-  "display_name": "Social Poster",
-  "version": "1.0.0",
-  "author": "fayfay",
-  "description": "ให้ {{char}} สร้างโพสต์โซเชียลมีเดีย (เช่น บ่น/ทวีต) โดยอิงตามบทสนทนาล่าสุด",
+  "display_name": "RP Social Post",
+  "loading_order": 60,
   "js": "index.js",
   "css": "style.css",
-  "loading_order": 60,
+  "author": "fay",
+  "version": "0.0.2",
+  "description": "หน้าโซเชียลปลอมแบบเฟส/ทวิต ให้ {{char}} โพสต์บ่นจากบทโรลกับ {{user}}",
+  "auto_update": false,
   "minimum_client_version": "0.0.0"
 }
